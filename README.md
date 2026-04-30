@@ -80,7 +80,3 @@ Atualmente busco oportunidades de estágio ou posição júnior como desenvolved
 ---
 
 ⭐ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
-
-## 📊 Estatísticas
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USERNAME&theme=tokyonight)
