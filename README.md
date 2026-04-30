@@ -80,3 +80,13 @@ Atualmente busco oportunidades de estágio ou posição júnior como desenvolved
 ---
 
 ⭐ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DouglasOtani&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasOtani&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DouglasOtani&theme=tokyonight)
