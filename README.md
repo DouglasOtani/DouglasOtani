@@ -74,8 +74,8 @@ Atualmente busco oportunidades de estágio ou posição júnior como desenvolved
 
 ## 📫 Contato
 
-- LinkedIn: (https://www.linkedin.com/in/douglas-otani/)
-- Email: (otani.douglas@hotmail.com)
+- LinkedIn: https://www.linkedin.com/in/douglas-otani/
+- Email: otani.douglas@hotmail.com
 
 ---
 
